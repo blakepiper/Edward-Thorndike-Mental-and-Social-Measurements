@@ -1,0 +1,4 @@
+﻿id,stature,sound_reaction_time,drawing_error,word_memory,handwriting_quality,spelling_grades,perception_efficiency,criminality,music_interest,age_in_days
+1,160,0.175,3.2,6,illegible,82,48,0,little,5080
+2,140,0.125,2.8,9,legible,62,60,1,moderate,6150
+3,130,0.15,2.2,7,perfect,93,82,0,a great deal,5615
